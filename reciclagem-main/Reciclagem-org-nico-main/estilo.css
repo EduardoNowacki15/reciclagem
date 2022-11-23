@@ -1,0 +1,69 @@
+.h1{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #006644;
+    text-align: center;
+    background-color: #94f1b5;
+    text-shadow: 0.5px 0.5px #000000;
+}
+
+
+.cabecalho{
+    background-color: #A7F0C1;
+   width: 100%;
+   height: 200px;
+}
+
+
+.rodape{
+    text-align: center;
+ 
+
+}
+
+.processo{
+    height: 300px;
+    padding: 10px;
+    margin-left: 25%;
+}
+
+
+#link{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 5%;
+    text-decoration: none;
+    color: #006644;
+}
+
+#link:hover{
+    color: #006644;
+}
+
+.divs{
+    display: flex;
+}
+
+.h2{
+    background-color: #009E25;
+    height: 10%;
+    margin-right: 3%;
+   
+}
+
+.h3{
+    background-color: #009E25;
+    height: 10%;
+    margin-right: 3%;
+}
+
+.h4{
+    background-color: #009E25;
+    height: 10%;
+}
+
+.fundo1{
+background-color: aquamarine;
+size: 90%;
+}
